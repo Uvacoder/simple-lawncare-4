@@ -3199,6 +3199,7 @@ input, select, textarea {
 		position: relative;
 		z-index: 1;
 		overflow: hidden;
+		background-color:green;
 	}
 
 		#wrapper > .bg {
