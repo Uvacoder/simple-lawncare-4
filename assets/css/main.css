@@ -4140,7 +4140,7 @@ input, select, textarea {
 		}
 
 			#footer .pagination a:hover {
-				color: #18bfef !important;
+				color: #04B30F !important;
 				border-color: #04B30F;
 				z-index: 1;
 			}
@@ -4654,4 +4654,8 @@ input, select, textarea {
 
 .logo:hover {
 	boder-color:#04B30F;
+}
+
+button:hover {
+	border-color:#04B30F;
 }
