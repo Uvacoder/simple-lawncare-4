@@ -4652,6 +4652,10 @@ input, select, textarea {
 
 	}
 
+footer p {
+text-align:center;
+}
+
 .logo:hover {
 	boder-color:#04B30F;
 }
