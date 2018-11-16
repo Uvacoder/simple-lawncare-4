@@ -3199,7 +3199,6 @@ input, select, textarea {
 		position: relative;
 		z-index: 1;
 		overflow: hidden;
-		background-color:green;
 	}
 
 		#wrapper > .bg {
@@ -3730,7 +3729,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #ffffff;
+		background-color: #e8ecf2;
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
